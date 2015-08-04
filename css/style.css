@@ -465,7 +465,7 @@ textarea {
 	margin-bottom: 0;
 }
 .main-navigation .navbar-default {
-	background-color: transparent;
+	background-color: transparent; 
 	border: none;
 }
 .main-navigation .navbar-default .navbar-nav > li > a {
