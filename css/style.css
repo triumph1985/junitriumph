@@ -115,8 +115,8 @@ blockquote {
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
-	color: #ffffff;
-	background-color: rgba(0, 0, 0, 0.10);
+	color: #ffffff; 
+	background-color: rgba(0 0, 0, 0.10); 
 	padding: 10px 0;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -511,7 +511,8 @@ textarea {
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(0, 0, 0, 0.95);
+	/* background-color: rgba(0, 0, 0, 0.95); */
+	background-color: rgba(70, 70, 70, 0.8); 
 	padding: 5px 0;
 }
 .fixed-header-on .site-name {
